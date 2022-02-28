@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import re
 from io import BytesIO
 from zipfile import ZipFile
